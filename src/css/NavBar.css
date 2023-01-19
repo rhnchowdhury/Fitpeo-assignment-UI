@@ -1,0 +1,9 @@
+.nav-design {
+    margin-left: 75%;
+}
+
+@media only screen and (max-width: 600px) {
+    .nav-design {
+        margin-left: auto;
+    }
+}
